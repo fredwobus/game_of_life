@@ -1,0 +1,11 @@
+/GameOfLife
+/CMakeFiles/
+/Makefile
+/CMakeCache.txt
+/.cmake
+/.ninja_deps
+/.ninja_log
+/build.ninja
+/Testing/Temporary/
+/cmake_install.cmake
+/cmake-build-debug/
